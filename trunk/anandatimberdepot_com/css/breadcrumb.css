@@ -1,0 +1,6 @@
+#breadcrumbs { border-bottom:1px solid #ccc; background-color:#fff; line-height: 20px; overflow:auto; font-size:11px; font-weight:bold; padding:10px; }
+#breadcrumbs li { float:left; padding-left:8px; }
+#breadcrumbs li a { padding:0 24px 2px 0; background:transparent url(blue-arrow.png) no-repeat right center;}
+#breadcrumbs li a:link, #breadcrumbs li a:visited { text-decoration:none; color:#003366; }
+#breadcrumbs li a:hover, #breadcrumbs li a:focus { color:#0099CC; }
+#breadcrumbs li {color:#FF9900;}
