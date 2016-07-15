@@ -4,10 +4,10 @@ $file_name = basename($_SERVER['SCRIPT_FILENAME'], ".php");
 if($file_name == 'index' || $file_name == 'contact_us'){ ?>
 	<div class="home-mid-rgt">
 		<ul id="sliding-navigation">
-			<li class="sliding-element"><a href="#">Ananda Timber Depot</a></li>
-			<li class="sliding-element"><a href="#">Ananda Traders</a></li>
-			<li class="sliding-element"><a href="#">Ananda Furniture</a></li>
-			<li class="sliding-element"><a href="#">Ananda Saw Mill</a></li>
+			<li class="sliding-element"><a href="ananda_timber_depot.php">Ananda Timber Depot</a></li>
+		<!--	<li class="sliding-element"><a href="#">Ananda Traders</a></li> -->
+			<li class="sliding-element"><a href="ananda_furniture.php">Ananda Furniture</a></li>
+			<li class="sliding-element"><a href="ananda_saw_mill.php">Ananda Saw Mill</a></li>
 		</ul>
 	</div>
 <?php

@@ -12,20 +12,7 @@
 <body>
 <div id="main-container"> 
   <!-- Header -->
-  <div class="header">
-    <div class="page-wrap">
-      <div class="header-left"><img src="images/atb.jpg" alt="Anandha Timber Depot" title="Anandha Timber Depot" /></div>
-      <div class="header-right"> <i>For Support</i><br />
-        <b>Call:</b> 9000000000 </div>
-      <div class="clear"></div>
-	  <?php include_once('includes/main_menu.php'); ?>
-      <div class="clear"></div>
-	  <?php include_once('includes/main_banner.php'); ?>
-      <!-- // Menu -->
-      <div class="clear"></div>
-    </div>
-  </div>
-  <!-- // Header -->
+	<?php include_once("includes/header_2.php"); ?>  <!-- // Header -->
   <div class="clear"></div>
   <!-- Content area -->
   <div class="home-mid-container">

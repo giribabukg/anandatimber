@@ -24,16 +24,16 @@
 				  <li><a href="#">Tata G.I. Metal Sheet & Color Sheets</a></li>
                 </ul>  -->
               </li>
-              <li><a href="ananda_traders.php">Ananda Traders</a>
-              <!--  <ul>
+<!--              <li><a href="ananda_traders.php">Ananda Traders</a>
+                <ul>
                   <li><a href="#">Green Plywood & Commercial Plywood Modiguard</a></li>
 				  <li><a href="#">Saint Gobian Glass</a></li>
 				  <li><a href="#">Mica</a></li>
 				  <li><a href="#">P.V.C. Door</a></li>
 				  <li><a href="#">G.I. Pipes</a></li>
 				  <li><a href="#">P.V.C. Beadings</a></li>
-                </ul>  -->
-              </li>
+                </ul>  
+              </li> -->
               <li><a href="ananda_furniture.php">Ananda Furniture</a>
        <!--         <ul>
                   <li><a href="#">Timber Size</a></li>

@@ -51,25 +51,16 @@ if(isset($_POST['submitted']))
 <meta	name="description" content="" />
 <?php include_once('includes/header.php');	?>
 
+<style>
+
+</style>
+
 </head>
 
 <body>
 <div id="main-container"> 
   <!-- Header -->
-  <div class="header">
-    <div class="page-wrap">
-      <div class="header-left"><img src="images/atb.jpg" alt="Anandha Timber Depot" title="Anandha Timber Depot" /></div>
-      <div class="header-right"> <i>For Support</i><br />
-        <b>Call:</b> 9000000000 </div>
-      <div class="clear"></div>
-	  <?php include_once('includes/main_menu.php'); ?>
-      <div class="clear"></div>
-	  <?php include_once('includes/main_banner.php'); ?>
-      <!-- // Menu -->
-      <div class="clear"></div>
-    </div>
-  </div>
-  <!-- // Header -->
+	<?php include_once("includes/header_2.php"); ?>  <!-- // Header -->
   <div class="clear"></div>
   <!-- Content area -->
   <div class="home-mid-container">
@@ -129,17 +120,38 @@ if(isset($_POST['submitted']))
 </fieldset>
 </form>
 <div class="timber-address">
-	<address>
-	Ananda Timber Depot
-	#156 G.N.T. Road
-	Gummidipundi
-	Thiruvallur Distric
-	Pin - 601201
-	Mobile: 0999123456
-	Telephone/Fax: 044 2792 1234/2792 5678
-	Email: admin@anandatimberdepot.com
+	<ul id="my-list">
+		<li>
+			<address>
+<!--			Ananda Timber Depot
+			#156 G.N.T. Road
+			Gummidipundi
+			Thiruvallur Distric
+			Pin - 601201
+			Mobile: 0999123456
+			Telephone/Fax: 044 2792 1234/2792 5678
+			Email: admin@anandatimberdepot.com -->
+			<div class='addrs-name-headr'>Ananda Timber Depot</div>
+			No: 32, G.N.T. Road, Gummidipundi - 601201
+			Mobile: 98403 26165, 98401 99884, 98400 23881
+			Phone: 044 - 27928486, 27928921
+			</address>
+		</li>
+		<li>
+		<address>
+			<div class='addrs-name-headr'>Ananda Furniture</div>
+			No: 68, Verkadu, G.N.T. Road, Gummidipundi - 601201
+		</address>
+		</li>
+		<li>
+		<address>
+			<div class='addrs-name-headr'>Ananda Timber Depot &#38; Saw Mill</div>
+			No: 78, Verkadu, G.N.T. Road, Gummidipundi - 601201
+		</address>
+		</li>
+	</ul>
 
-	</address>
+
 </div>
 <!-- <address>
 Ananda Traders

@@ -234,7 +234,25 @@ clear:left;
 }
 
 .timber-address address {
-	width: 150px;
+	width: 180px;
 }
 
+#my-list{
+    background: #f7f7f7;   
+    padding: 8px;
+}
 
+#my-list > li {
+    display: inline-block;
+    /* You can also add some margins here to make it look prettier */
+    zoom:1;
+    *display:inline;
+    /* this fix is needed for IE7- */
+	width: 190px;
+	vertical-align:top;
+}
+
+.addrs-name-headr {
+    font-weight: bold;
+    font-size: 14px;
+}
