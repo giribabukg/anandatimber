@@ -6,25 +6,14 @@
 <meta	name="author" content="" />
 <meta	name="keywords"	content="" />
 <meta	name="description" content="" />
+<meta name="google-site-verification" content="wZgAhnKQboyTqCDUw-YIazPSX1uYD9tpLPImQDq_0CU" />
 <?php include_once('includes/header.php');	?>
 </head>
 
 <body>
 <div id="main-container"> 
   <!-- Header -->
-  <div class="header">
-    <div class="page-wrap">
-      <div class="header-left"><img src="images/atb.jpg" alt="Anandha Timber Depot" title="Anandha Timber Depot" /></div>
-      <div class="header-right"> <i>For Support</i><br />
-        <b>Call:</b> 9000000000 </div>
-      <div class="clear"></div>
-	  <?php include_once('includes/main_menu.php'); ?>
-      <div class="clear"></div>
-	  <?php include_once('includes/main_banner.php'); ?>
-      <!-- // Menu -->
-      <div class="clear"></div>
-    </div>
-  </div>
+	<?php include_once("includes/header_2.php"); ?>
   <!-- // Header -->
   <div class="clear"></div>
   <!-- Content area -->
@@ -43,10 +32,10 @@
 
 <div class="double_column_list">
 <ul>
-<li class="timbers"><a href="#">Ananda Timbers</a></li>
-<li class="traders"><a href="#">Ananda Traders</a></li>
-<li class="sawmill"><a href="#">Ananda Sawmill</a></li>
-<li class="furniture"><a href="#">Ananda Furniture</a></li>
+<li class="timbers"><a href="ananda_timber_depot.php">Ananda Timbers</a></li>
+<!-- <li class="traders"><a href="#">Ananda Traders</a></li> -->
+<li class="sawmill"><a href="ananda_saw_mill.php">Ananda Sawmill</a></li>
+<li class="furniture"><a href="ananda_furniture.php">Ananda Furniture</a></li>
 </ul>
 </div>
 		

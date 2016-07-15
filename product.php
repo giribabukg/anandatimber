@@ -23,35 +23,7 @@
  <body>
 	<div id="main-container">
 		<!-- Header -->
-		<div class="header">
-			<div class="page-wrap">
-				<div class="header-left"><img src="images/atb.jpg" alt="Anandha Timber Depot" title="Anandha Timber Depot" /></div>
-				<div class="header-right">
-					<i>For Support</i><br /><b>Call:</b> 9000000000
-				</div>
-				<div class="clear"></div>
-				<!-- Menu -->
-				<div id="menu">
-					<ul>
-						<li><a href="javascript:void(0)" class="active">Home</a></li>
-						<li><a href="#">About Us</a></li>
-						<li><a href="#">Products</a></li>
-						<li><a href="#">Services</a></li>
-						<li class="last"><a href="#">Contact Us</a></li>
-					</ul>
-				</div>
-				<div class="clear"></div>
-				<div class="rotator">
-				  <ul>
-					<li class="show"><img src="images/banner1.jpg" alt="Anandha Timber Depot Products" /></li>
-					<li><img src="images/banner2.jpg" alt="Anandha Timber Depot Products" /></li>
-					<li><img src="images/banner3.jpg" alt="Anandha Timber Depot Products" /></li>
-				  </ul>
-				</div>
-				<!-- // Menu -->
-			<div class="clear"></div>
-			</div>
-		</div>
+	<?php include_once("includes/header_2.php"); ?>
 		<!-- // Header -->
 		<div class="clear"></div>
 		<!-- Content area -->
