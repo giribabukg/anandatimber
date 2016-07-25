@@ -57,6 +57,13 @@
 		<p>
 		In South India, we have been focusing and catering to the needs of whole sale and retail traders. In order to increase our market share in retail segment, we are reaching now directly to all well established Companies / Builders / Contractors to supply our good quality timber and timber Products. Since the cost of processing and manufacturing is low with us, we shall able to offer very competitive prices for our Timber and Timber Products.
 		</p>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+
 
       </div>
 	  <?php include_once('includes/right_side_content.php'); ?>
