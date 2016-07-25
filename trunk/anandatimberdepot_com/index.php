@@ -22,34 +22,32 @@
       <div class="home-mid-left">
 	  <?php include_once('includes/breadcrumb.php'); ?>
         <h1><i>Welcome to</i> <strong><span>A</span>nandha <span>T</span>imber <span>D</span>epot</strong></h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id justo vitae elit mollis feugiat. In scelerisque est at lectus sagittis congue. Nullam cursus velit vel risus consequat vulputate. Aliquam sollicitudin tempus diam, sed vulputate purus suscipit at. Nulla sodales mollis lectus id venenatis. Vivamus non ante id leo cursus aliquam at a dui. Curabitur ac ligula sapien.</p>
+        <p>Ananda Timber Depot &#45; The Firm was established in the year of 1980, having its Head office at Gummidipundi, and now we have our business services at Ananda Traders, Ananda Furniture, and Ananda Saw Mill. Ananda Timber Depot leading distributor of hardwoods, panel products and other timber related products.</p>
 		<div>
 <iframe width="685" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Ananda+Timber+Depot,+Gummidipundi,+Tamil+Nadu&amp;aq=0&amp;oq=ananda+timber+de&amp;sll=13.115707,80.1012&amp;sspn=0.327679,0.676346&amp;ie=UTF8&amp;hq=Ananda+Timber+Depot,+Gummidipundi,+Tamil+Nadu&amp;t=m&amp;ll=13.416337,80.131531&amp;spn=0.066791,0.234833&amp;z=12&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.in/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Ananda+Timber+Depot,+Gummidipundi,+Tamil+Nadu&amp;aq=0&amp;oq=ananda+timber+de&amp;sll=13.115707,80.1012&amp;sspn=0.327679,0.676346&amp;ie=UTF8&amp;hq=Ananda+Timber+Depot,+Gummidipundi,+Tamil+Nadu&amp;t=m&amp;ll=13.416337,80.131531&amp;spn=0.066791,0.234833&amp;z=12" style="color:#0000FF;text-align:left">View Larger Map</a></small>	
 		</div>
 
-        <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacus lacus, mollis eget posuere sit amet, dignissim vel ipsum. Nam tempus nibh vitae enim convallis accumsan ut a erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet massa metus, venenatis accumsan orci. Vestibulum lorem tortor, euismod id venenatis non, elementum in erat. Aliquam erat volutpat.</p>
+        <p>The Firm is headed by Mr. O.M. Krishnan who is having around 45 years of experience in the timber, timber trading and saw mill operations. Our main activity was to procure timber from Kerala Forest Department, Assam, Madhya Pradesh and Andaman & Nicobar Islands, and cut them into sizes and supply to all over Tamilnadu and other parts of India.</p>
 
 
 <div class="double_column_list">
 <ul>
 <li class="timbers"><a href="ananda_timber_depot.php">Ananda Timbers</a></li>
 <!-- <li class="traders"><a href="#">Ananda Traders</a></li> -->
-<li class="sawmill"><a href="ananda_saw_mill.php">Ananda Sawmill</a></li>
+<li class="sawmill"><a href="ananda_saw_mill.php">Ananda Saw Mill</a></li>
 <li class="furniture"><a href="ananda_furniture.php">Ananda Furniture</a></li>
 </ul>
 </div>
 		
 		<br />
-
-
-        <p>Praesent tempor adipiscing erat sit amet venenatis. In pharetra dictum justo, sed suscipit erat bibendum eu. Suspendisse non velit sem, non tempus justo. Maecenas sit amet turpis ut odio auctor pharetra vel sit amet neque. Nulla dictum eros et nulla faucibus lacinia. Vivamus id sapien et nulla scelerisque consectetur. Ut ac ornare nisl.</p>
+        <p>We are expecting future business in export. In order to study about the global market and to market our products like sawn timber, mouldings, furniture components etc. we have been participating in various trade fairs (both national and international).</p>
 
 		<br />
 		<br />
 
 		
 			<div class="client-icon">Our Clients</div>
-        <p>Praesent tempor adipiscing erat sit amet venenatis. In pharetra dictum justo, sed suscipit erat bibendum eu. Suspendisse non velit sem, non tempus justo. Maecenas sit amet turpis ut odio auctor pharetra vel sit amet neque. Nulla dictum eros et nulla faucibus lacinia. Vivamus id sapien et nulla scelerisque consectetur. Ut ac ornare nisl.</p>
+        
 		<div class="client-div">
 		<img src="images/client1.png"/>
 		<img src="images/client2.jpg"/>

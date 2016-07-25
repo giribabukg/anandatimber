@@ -44,5 +44,58 @@ if($file_name == 'index'){ ?>
 		<li>About Us</li>
 	</ul>
 <?php
-}
-?>
+} elseif($file_name == 'tiles') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Tiles</li>
+	</ul>
+<?php
+} elseif($file_name == 'roof_mat') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Roofing Materials</li>
+	</ul>
+<?php
+} elseif($file_name == 'beedings') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Beedings</li>
+	</ul>
+<?php
+} elseif($file_name == 'elevation') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Elevations</li>
+	</ul>
+<?php
+} elseif($file_name == 'glass') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Glasses</li>
+	</ul>
+<?php
+} elseif($file_name == 'hardwares') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Hardwares</li>
+	</ul>
+<?php
+} elseif($file_name == 'tata_gi') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Tata GI</li>
+	</ul>
+<?php
+} elseif($file_name == 'doors') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Doors</li>
+	</ul>
+<?php
+} elseif($file_name == 'plywoods') { ?>
+	<ul id="breadcrumbs">
+		<li ><a href="#">Home</a></li>
+		<li>Plywoods</li>
+	</ul>
+<?php
+} ?>

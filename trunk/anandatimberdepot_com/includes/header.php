@@ -26,6 +26,9 @@
 <!-- breadcrumb css-->
 <link rel="stylesheet" type="text/css" href="css/breadcrumb.css" />
 
+<!-- CSS for image hover effect -->
+<link href="css/imagehover.css" rel="stylesheet" media="all">
+
 
 <!--  right side image slider box -->
 <script type="text/javascript" src="js/jquery.cycle.all.js"></script>

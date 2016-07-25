@@ -28,6 +28,14 @@
 			<ul>
                   <li>Timber Logs Yard</li>
                   <li>Wood Cutting</li>
+                  <li>Venga</li>
+                  <li>Burma Teak</li>
+                  <li>Teak</li>
+                  <li>Kangoo</li>
+                  <li>Padak</li>
+                  <li>Neem Wood</li>
+                  <li>Pine Wood</li>
+                  <li>Silver Wood</li>
 			</ul>
 		</div>
 

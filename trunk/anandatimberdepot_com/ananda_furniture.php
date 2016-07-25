@@ -30,6 +30,11 @@
                   <li>House Door Frame</li>
                   <li>Dining Table and Chair</li>
 				  <li>Sofa set, Dressing Table and Marriage Cots</li>
+				  <li>Sofa set, Dressing Table and Marriage Cots</li>
+				  <li>Diwan</li>
+				  <li>Office Furniture</li>
+				  <li>Sanitary Fittings</li>
+				  <li>Bathroom Fittings</li>
 			</ul>
 		</div>
 
