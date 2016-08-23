@@ -75,9 +75,10 @@
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Modi Guard</li>
+			  <li>Designed Glasses</li>
 			</ul>
 		</div>
+		
 		<br />
 		<br />
 		
@@ -85,29 +86,29 @@
 		<br/>
 		<br/>
 		<br/>
-		<br/>
-		<br/>
-		<br />
-		<br />
-		
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br />
-		<br />
-		
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br />
-		<br />
-		
+		<div>
+			<figure class="imghvr-zoom-out-left" style="margin-left: 80px;margin-right: 70px;margin-top: 35px;">
+			    <img src="images/glass-logos/saint-gobain-logo.png" class="img-sizesss1">
+			    <figcaption class="fig-caption1">
+			        Saint Gobian
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>			
+			<figure class="imghvr-zoom-out-right" style="">
+			    <img src="images/glass-logos/modiguard-logo.jpg" class="img-sizesss2">
+			    <figcaption class="fig-caption2">
+			        Modiguard
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>
+			<figure class="imghvr-fold-left" style=" margin-left: 125px;margin-right: 40px;margin-top: 30px;">
+			    <img src="images/glass-logos/ais_logo.jpg" class="img-sizesss3">
+			    <figcaption class="fig-caption3">
+			        AIS
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>
+		</div>	
 		<br/>
 		<br/>
 		<br/>

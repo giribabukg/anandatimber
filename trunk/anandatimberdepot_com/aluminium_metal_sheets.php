@@ -71,23 +71,30 @@
     <div class="page-wrap">
       <div class="home-mid-left">
 		<?php include_once('includes/breadcrumb.php'); ?>
-		<h1><strong><span>T</span>ata GI</strong></h1>
+		<h1><strong><span>A</span>luminium Metal Sheets</strong></h1>
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Pipes</li>
-			  <li>GI</li>
+			  <li>Aluminium Sheets</li>
+			  <li>Everest</li>
+			  <li>Swathick</li>
+			  <li>Metal Sheets</li>
+			  <li>G.I. Sheets</li>
+			  <li>G.I. & M.S. Pipes</li>
 			</ul>
 		</div>
 		<br />
 		<br />
-		
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+		<br/>		
+		<div>
+			<figure class="imghvr-zoom-out-left" style="margin-left: 80px;margin-right: 70px;margin-top: 35px;">
+			    <img src="images/logos/Swastik.png" class="img-sizesss1">
+			    <figcaption class="fig-caption1">
+			        Swastik Roofing
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>
+		</div>		
 		<br />
 		<br />
 		
@@ -106,16 +113,6 @@
 		<br/>
 		<br/>
 		<br/>
-		<br />
-		<br />
-		
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>						
-
 
       </div>
 	  <?php include_once('includes/right_side_content.php'); ?>

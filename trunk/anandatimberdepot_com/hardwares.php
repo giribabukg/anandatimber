@@ -75,9 +75,10 @@
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Door Handles</li>
-			  <li>Cupboard</li>
-			  <li>Keels</li>
+			  <li>Hinges</li>
+			  <li>Door Lock Handles</li>
+			  <li>Kitchen Accessories</li>
+			  <li>Aluminium Channels</li>
 			</ul>
 		</div>
 		<br />

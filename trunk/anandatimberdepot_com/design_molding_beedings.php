@@ -71,12 +71,13 @@
     <div class="page-wrap">
       <div class="home-mid-left">
 		<?php include_once('includes/breadcrumb.php'); ?>
-		<h1><strong><span>B</span>eedings</strong></h1>
+		<h1><strong><span>D</span>esigner / Molding Beadings</strong></h1>
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Designer Beedings</li>
-			  <li>Silver Wood</li>
+			  <li>Plain Beadings</li>
+			  <li>Conner Beadings</li>
+			  <li>Square Beadings</li>		
 			</ul>
 		</div>
 		<br />

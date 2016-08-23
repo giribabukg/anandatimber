@@ -71,24 +71,21 @@
     <div class="page-wrap">
       <div class="home-mid-left">
 		<?php include_once('includes/breadcrumb.php'); ?>
-		<h1><strong><span>P</span>lywoods</strong></h1>
+		<h1><strong><span>R</span>eadymade Doors </strong></h1>
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Greenply Water Proof</li>
-			  <li>Hardwood</li>
-			  <li>Commercial</li>
-			  <li>Film Faced & Diamond Sheets</li>
+			  <li>Laminated Doors</li>
+			  <li>Membrane Doors</li>
+			  <li>Skin Doors</li>
+			  <li>PVC Doors</li>
 			</ul>
 		</div>
-		<br />
-		<br />
-		<br/>
 		<div>
 			<figure class="imghvr-zoom-out-left" style="margin-left: 80px;margin-right: 70px;margin-top: 35px;">
-			    <img src="images/logos/Greenply Industries logo Single .jpg" class="img-sizesss1">
+			    <img src="images/logos/sintex_logos.jpg" class="img-sizesss1">
 			    <figcaption class="fig-caption1">
-			        Greenply
+			        Sintex
 			    </figcaption>
 			    <a href="#"></a>
 			</figure>
@@ -113,7 +110,22 @@
 		<br/>
 		<br />
 		<br />
-					
+		
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br />
+		<br />
+		
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>						
 
 
       </div>

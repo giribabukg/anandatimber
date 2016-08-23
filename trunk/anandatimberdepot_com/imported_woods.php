@@ -71,11 +71,17 @@
     <div class="page-wrap">
       <div class="home-mid-left">
 		<?php include_once('includes/breadcrumb.php'); ?>
-		<h1><strong><span>E</span>levations</strong></h1>
+		<h1><strong><span>I</span>mported Woods</strong></h1>
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Decorative</li>
+			  <li>Vengai</li>
+			  <li>Paduak</li>
+			  <li>Burma, Balasha, African Teaks</li>
+			  <li>Malasian Sal / Kongu</li>
+			  <li>Neem Wood</li>
+			  <li>Pine Wood</li>
+			  <li>Silver Wood</li>
 			</ul>
 		</div>
 		<br />
@@ -107,13 +113,11 @@
 		<br/>
 		<br />
 		<br />
-		
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>						
+					
+		<br />
+		<br />
+		<br />
+		<br />
 
 
       </div>
