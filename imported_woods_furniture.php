@@ -71,16 +71,20 @@
     <div class="page-wrap">
       <div class="home-mid-left">
 		<?php include_once('includes/breadcrumb.php'); ?>
-		<h1><strong><span>R</span>oofing Materials</strong></h1>
+		<h1><strong><span>I</span>mported Wood Furniture</strong></h1>
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Charminat</li>
-			  <li>Swabt</li>
-			  <li>Everest</li>
+			  <li>Door Frame</li>
+			  <li>Wooden Door</li>
+			  <li>Cot</li>
+			  <li>Sofa Set</li>
+			  <li>Dinning Table</li>
+			  <li>Dressing Table</li>
+			  <li>Modular Kitchen</li>
+			  <li>Office Furniture</li>
 			</ul>
 		</div>
-
 		<br />
 		<br />
 		

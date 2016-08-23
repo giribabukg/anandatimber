@@ -11,27 +11,33 @@ if($file_name == 'index' || $file_name == 'contact_us'){ ?>
 		</ul>
 	</div>
 <?php
-} elseif($file_name == 'ananda_furniture'){ ?>
+} elseif($file_name == 'ananda_furniture' || $file_name == 'imported_woods_furniture' || $file_name == 'tiles_and_sanitary' || $file_name == 'hardwares' || $file_name == 'readymade_doors' || $file_name == 'glass'){ ?>
 	<div class="home-mid-rgt">
 		<ul id="sliding-navigation">
-			  <li class="sliding-element"><a href="#">Timber Size</a></li>
-			  <li class="sliding-element"><a href="#">House Door Frame</a></li>
-			  <li class="sliding-element"><a href="#">Dining Table and Chair</a></li>
-			  <li class="sliding-element"><a href="#" class="big-menu">Sofa set, Dressing Table and Marriage Cots</a></li>
+			  <li class="sliding-element"><a href="imported_woods_furniture.php">Imported Wood Furniture</a></li>
+			  <li class="sliding-element"><a href="tiles_and_sanitary.php">Tiles and Sanitary Ware</a></li>
+			  <li class="sliding-element"><a href="hardwares.php">Hardware</a></li>
+			  <li class="sliding-element"><a href="readymade_doors.php" class="big-menu">Readymade Doors</a></li>
+			  <li class="sliding-element"><a href="glass.php" class="big-menu">Glass</a></li>
 		</ul>
 	</div>
 <?php
-} elseif($file_name == 'ananda_saw_mill') { ?>
+} elseif($file_name == 'ananda_saw_mill' || $file_name == 'wood_work_machines') { ?>
 	<div class="home-mid-rgt">
 		<ul id="sliding-navigation">
-			  <li class="sliding-element"><a href="#">Timber Logs Yard</a></li>
-			  <li class="sliding-element"><a href="#">Wood Cutting</a></li>
+			  <li class="sliding-element"><a href="wood_work_machines.php">Wood Work Machines</a></li>
 		</ul>
 	</div>
-<?php } elseif($file_name == 'ananda_timber_depot' || $file_name == 'tiles' || $file_name == 'roof_mat' || $file_name == 'doors' || $file_name == 'tata_gi' || $file_name == 'plywoods' || $file_name == 'hardwares' || $file_name == 'elevation' || $file_name == 'glass' || $file_name == 'beedings') { ?>
+<?php } elseif($file_name == 'ananda_timber_depot' || $file_name == 'imported_woods' || $file_name == 'plywoods' || $file_name == 'laminates' || $file_name == 'aluminium_metal_sheets' || $file_name == 'design_molding_beedings') { ?>
 	<div class="home-mid-rgt">
 		<ul id="sliding-navigation">
-			  <li class="sliding-element"><a href="tiles.php">Tiles</a></li>
+			  <li class="sliding-element"><a href="imported_woods.php">Imported Woods</a></li>
+			  <li class="sliding-element"><a href="plywoods.php">Plywoods</a></li>
+			  <li class="sliding-element"><a href="laminates.php">Laminates</a></li>
+			  <li class="sliding-element"><a href="aluminium_metal_sheets.php">Aluminium Metal Sheets</a></li>
+			  <li class="sliding-element"><a href="design_molding_beedings.php">Designer / Molding Beadings</a></li>
+
+<!--		  <li class="sliding-element"><a href="tiles.php">Tiles</a></li>
 			  <li class="sliding-element"><a href="roof_mat.php">Roofing Materials</a></li>
 			  <li class="sliding-element"><a href="tata_gi.php">Tata GI</a></li>
 			  <li class="sliding-element"><a href="doors.php">Doors</a></li>
@@ -39,15 +45,11 @@ if($file_name == 'index' || $file_name == 'contact_us'){ ?>
 			  <li class="sliding-element"><a href="hardwares.php">Hardwares</a></li>
 			  <li class="sliding-element"><a href="elevation.php">Elevation</a></li>
 			  <li class="sliding-element"><a href="glass.php">Glass</a></li>
-			  <li class="sliding-element"><a href="beedings.php">Beedings</a></li>
+			  <li class="sliding-element"><a href="beedings.php">Beedings</a></li> -->
 
-
-
-
-
-
-<!--			  <li class="sliding-element"><a href="#">Saw Mill</a></li>
+<!--		  <li class="sliding-element"><a href="#">Saw Mill</a></li>
 			  <li class="sliding-element"><a href="#">Painting & Designing Works</a></li>  -->
+
 <!--		  <li class="sliding-element"><a href="#">Burma Teak</a></li>
 			  <li class="sliding-element"><a href="#">Teak</a></li>
 			  <li class="sliding-element"><a href="#">Vengai</a></li>
@@ -58,7 +60,8 @@ if($file_name == 'index' || $file_name == 'contact_us'){ ?>
 			  <li class="sliding-element"><a href="#">Pine Wood</a></li>
 			  <li class="sliding-element"><a href="#">Ceramic Tiles</a></li>
 			  <li class="sliding-element"><a href="#">Vertified Tiles</a></li> -->
-<!--			  <li class="sliding-element"><a href="#">Wall Tiles</a></li>
+
+<!--		  <li class="sliding-element"><a href="#">Wall Tiles</a></li>
 			  <li class="sliding-element"><a href="#">Decorative Teracotta Tiles</a></li>
 			  <li class="sliding-element"><a href="#">Charminar Everest & Swastic A/C Sheet</a></li>
 			  <li class="sliding-element"><a href="#">Tata G.I. Metal Sheet & Color Sheets</a></li>  -->

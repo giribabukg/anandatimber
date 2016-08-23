@@ -71,15 +71,12 @@
     <div class="page-wrap">
       <div class="home-mid-left">
 		<?php include_once('includes/breadcrumb.php'); ?>
-		<h1><strong><span>D</span>oors</strong></h1>
+		<h1><strong><span>W</span>ood Work Machines</strong></h1>
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Wooden Doors</li>
-			  <li>Flush Doors</li>
-			  <li>Memberane doors</li>
-			  <li>Laminated Doors</li>
-			  <li>PVC Doors</li>
+			  <li>Designer Beedings</li>
+			  <li>Silver Wood</li>
 			</ul>
 		</div>
 		<br />

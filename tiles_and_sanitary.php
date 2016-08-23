@@ -71,8 +71,18 @@
     <div class="page-wrap">
       <div class="home-mid-left">
 		<?php include_once('includes/breadcrumb.php'); ?>
-		<h1><strong><span>T</span>iles</h1>
+		<h1><strong><span>T</span>iles and Sanitary Ware</strong></h1>
 		<!-- MovingBoxes Slider -->
+		<div class="double_column_list2">
+			<ul>
+			  <li>Ceramic Tiles</li>
+			  <li>Vertrified Tiles</li>
+			  <li>Weather Tiles</li>
+			  <li>Designer Tiles</li>
+			  <li>Parking Tiles</li>
+			  <li>Elevation Tiles</li>
+			</ul>
+		</div>
 		<div>
 			<figure class="imghvr-zoom-out-left" style="margin-left: 80px;margin-right: 70px;margin-top: 35px;">
 			    <img src="images/tiles-logos/johnson-tiles.jpg" class="img-sizesss1">
@@ -116,17 +126,34 @@
 			    </figcaption>
 			    <a href="#"></a>
 			</figure>					
-		</div>
+			<figure class="imghvr-fold-right" style="margin-left: 80px;">
+			    <img src="images/tiles-logos/kajaria-logo-brand-page.jpg" class="img-sizesss4">
+			    <figcaption class="fig-caption4">
+			        Kajaria
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>
+			<figure class="imghvr-zoom-out-down" style="margin-left: 130px;margin-top:35px">
+			    <img src="images/tiles-logos/jaquar.png" class="img-sizesss5">
+			    <figcaption class="fig-caption5">
+			        Jaquar
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>
+			<figure class="imghvr-zoom-out-up" style="margin-left: 80px;">
+			    <img src="images/tiles-logos/hindware-logo.jpg" class="img-sizesss6">
+			    <figcaption class="fig-caption6">
+			        Hindware
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>					
 
+		</div>		
 		<br />
 		<br />
 		
 		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+						
 
 
       </div>
