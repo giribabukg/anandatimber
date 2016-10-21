@@ -9,6 +9,23 @@ html, body, div, span, iframe, p, blockquote, pre, a, abbr,  dfn, ins, kbd, q, s
 	font-family: inherit;
 	font-size:100%;
 }
+@font-face {
+   font-family: baskerville;
+   src: url(fonts/ufonts.com_baskerville.ttf);
+   font-weight: bold;
+}
+
+.mn-logo {
+   color: #b6722b;
+    display: inline-block;
+    font-family: baskerville;
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top: 35px;
+    text-shadow: 2px 2px 4px #c9996b;
+    vertical-align: top;	
+}
+
 p {
 text-indent: 3.5em;
 }
