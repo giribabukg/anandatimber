@@ -16,13 +16,13 @@ html, body, div, span, iframe, p, blockquote, pre, a, abbr,  dfn, ins, kbd, q, s
 }
 
 .mn-logo {
-   color: #b6722b;
+    color: #a55113;
     display: inline-block;
-    font-family: baskerville;
-    font-size: 40px;
-    padding-left: 20px;
+    font-family: verdana;
+    font-size: 33px;
     padding-top: 35px;
     text-shadow: 2px 2px 4px #c9996b;
+    text-transform: uppercase;
     vertical-align: top;	
 }
 
