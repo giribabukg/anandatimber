@@ -71,14 +71,14 @@
     <div class="page-wrap">
       <div class="home-mid-left">
 		<?php include_once('includes/breadcrumb.php'); ?>
-		<h1><strong><span>A</span>luminium Metal Sheets</strong></h1>
+		<h1><strong><span>A</span>sbestos Sheets and Metal Sheets</strong></h1>
 		<!-- MovingBoxes Slider -->
 				<div class="double_column_list2">
 			<ul>
-			  <li>Aluminium Sheets</li>
+			  <li>Asbestos Sheets and Metal Sheets</li>
 			  <li>Everest</li>
 			  <li>Swathick</li>
-			  <li>Asbestos sheets and Metal Sheets</li>
+			  <li>Metal Sheets</li>
 			  <li>G.I. Sheets</li>
 			  <li>G.I. & M.S. Pipes</li>
 			</ul>

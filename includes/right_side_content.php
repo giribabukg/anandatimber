@@ -34,7 +34,7 @@ if($file_name == 'index' || $file_name == 'contact_us'){ ?>
 			  <li class="sliding-element"><a href="imported_woods.php">Imported Woods</a></li>
 			  <li class="sliding-element"><a href="plywoods.php">Plywoods</a></li>
 			  <li class="sliding-element"><a href="laminates.php">Laminates</a></li>
-			  <li class="sliding-element"><a href="aluminium_metal_sheets.php">Aluminium Metal Sheets</a></li>
+			  <li class="sliding-element"><a href="aluminium_metal_sheets.php">Asbestos & Metal Sheets</a></li>
 			  <li class="sliding-element"><a href="design_molding_beedings.php">Designer / Molding Beadings</a></li>
 
 <!--		  <li class="sliding-element"><a href="tiles.php">Tiles</a></li>
