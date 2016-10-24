@@ -84,6 +84,20 @@
 			</ul>
 		</div>
 		<div>
+			<figure class="imghvr-zoom-out-right" style="margin-left: 70px;margin-bottom: 30px;">
+			    <img src="images/tiles-logos/somany.png" class="img-sizesss2">
+			    <figcaption class="fig-caption2">
+			        Somany
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>		
+			<figure class="imghvr-zoom-out-left" style="margin-left: 80px;margin-right: 70px;margin-top: 35px;">
+			    <img src="images/tiles-logos/cera-logo.png.jpg" class="img-sizesss1">
+			    <figcaption class="fig-caption1">
+			        Cera
+			    </figcaption>
+			    <a href="#"></a>
+			</figure>			
 			<figure class="imghvr-zoom-out-left" style="margin-left: 80px;margin-right: 70px;margin-top: 35px;">
 			    <img src="images/tiles-logos/johnson-tiles.jpg" class="img-sizesss1">
 			    <figcaption class="fig-caption1">
@@ -91,21 +105,15 @@
 			    </figcaption>
 			    <a href="#"></a>
 			</figure>			
-			<figure class="imghvr-zoom-out-right" style="">
-			    <img src="images/tiles-logos/somany.png" class="img-sizesss2">
-			    <figcaption class="fig-caption2">
-			        Somany
-			    </figcaption>
-			    <a href="#"></a>
-			</figure>
-			<figure class="imghvr-fold-left" style=" margin-left: 125px;margin-right: 40px;margin-top: 30px;">
+
+			<figure class="imghvr-fold-left" style=" margin-left: 50px;margin-right: 40px;margin-top: 30px;">
 			    <img src="images/tiles-logos/kag-logo.png" class="img-sizesss3">
 			    <figcaption class="fig-caption3">
 			        KAG
 			    </figcaption>
 			    <a href="#"></a>
 			</figure>
-			<figure class="imghvr-fold-right" style="margin-left: 80px;">
+			<figure class="imghvr-fold-right" style="margin-left: 125px;">
 			    <img src="images/tiles-logos/sparrow-logo.jpg" class="img-sizesss4">
 			    <figcaption class="fig-caption4">
 			        Sparrow
@@ -119,7 +127,7 @@
 			    </figcaption>
 			    <a href="#"></a>
 			</figure>
-			<figure class="imghvr-zoom-out-up" style="margin-left: 80px;">
+			<figure class="imghvr-zoom-out-up" style="margin-left: 80px;margin-top:80px;">
 			    <img src="images/tiles-logos/tectron-tiles.jpg" class="img-sizesss6">
 			    <figcaption class="fig-caption6">
 			        Tectron
@@ -133,14 +141,14 @@
 			    </figcaption>
 			    <a href="#"></a>
 			</figure>
-			<figure class="imghvr-zoom-out-down" style="margin-left: 130px;margin-top:35px">
+			<figure class="imghvr-zoom-out-down" style="margin-left: 130px;margin-top:80px">
 			    <img src="images/tiles-logos/jaquar.png" class="img-sizesss5">
 			    <figcaption class="fig-caption5">
 			        Jaquar
 			    </figcaption>
 			    <a href="#"></a>
 			</figure>
-			<figure class="imghvr-zoom-out-up" style="margin-left: 80px;">
+			<figure class="imghvr-zoom-out-up" style="margin-left: 105px;">
 			    <img src="images/tiles-logos/hindware-logo.jpg" class="img-sizesss6">
 			    <figcaption class="fig-caption6">
 			        Hindware

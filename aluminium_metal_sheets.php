@@ -78,7 +78,7 @@
 			  <li>Aluminium Sheets</li>
 			  <li>Everest</li>
 			  <li>Swathick</li>
-			  <li>Metal Sheets</li>
+			  <li>Asbestos sheets and Metal Sheets</li>
 			  <li>G.I. Sheets</li>
 			  <li>G.I. & M.S. Pipes</li>
 			</ul>
