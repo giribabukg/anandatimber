@@ -91,7 +91,7 @@
 			    </figcaption>
 			    <a href="#"></a>
 			</figure>		
-			<figure class="imghvr-zoom-out-left" style="margin-left: 80px;margin-right: 70px;margin-top: 35px;">
+			<figure class="imghvr-zoom-out-left" style="margin-left: 70px;margin-top: 35px;">
 			    <img src="images/tiles-logos/cera-logo.png.jpg" class="img-sizesss1">
 			    <figcaption class="fig-caption1">
 			        Cera
